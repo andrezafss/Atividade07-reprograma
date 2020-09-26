@@ -1,0 +1,52 @@
+[
+    {
+        "titulo": "Memórias Póstumas de Brás Cuba",
+        "autor": "Machado de Assis",
+        "ano": "1881"
+    },
+    {
+        "titulo": "O Cortiço",
+        "autor": "Aluísio de Azevedo",
+        "ano": "1890"
+    },
+    {
+        "titulo": "Os Sertões",
+        "autor": "Euclides da Cunha",
+        "ano": "1902"
+    },
+    {
+        "titulo": "Triste Fim de Policarpo Quaresma",
+        "autor": "Lima Barreto",
+        "ano": "1915"
+    },
+    {
+        "titulo": "Macunaíma",
+        "autor": "Mário de Andrade",
+        "ano": "1928"
+    },
+    {
+        "titulo": "O quinze",
+        "autor": "Rachel de Queiroz",
+        "ano": "1930"
+    },
+    {
+        "titulo": "Vidas Secas",
+        "autor": "Graciliano Ramos",
+        "ano": "1938"
+    },
+    {
+        "titulo": "Vestido de Noiva",
+        "autor": "Nelson Rodrigues",
+        "ano": "1943"
+    },
+    {
+        "titulo": "Grande Sertão: Veredas",
+        "autor": "Guimarães Rosa",
+        "ano": "1956"
+    },
+    {
+        "titulo": "A paixão Segundo G.H.",
+        "autor": "Clarice Lispector",
+        "ano": "1964"
+    }
+]
