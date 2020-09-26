@@ -4,7 +4,7 @@ const app = express();
 
 //importar os arquivos de rota
 const index = require('./route/index');
-const livros = require('./route/livrosRoute')
+const restaurantes = require('./route/restaurantesRoute')
 
 app.use((req, res, next) => {
     console.log('Nova requisicao realizada')
@@ -13,6 +13,6 @@ app.use((req, res, next) => {
 })
 
 app.use('/', index);
-app.use('/livros', livros);
+app.use('/restaurantes', restaurantes);
 
 module.exports = app;

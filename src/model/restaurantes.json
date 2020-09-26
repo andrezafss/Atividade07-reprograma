@@ -1,0 +1,53 @@
+[
+    {
+        "nome": "A casa do Porco",
+        "localidade": "São Paulo",
+        "especiaidade": "comida brasileira"
+    },
+    {
+        "nome": "China In Box",
+        "localidade": "Recife",
+        "especiaidade": "comida chinesa"
+    },
+    {
+        "nome": "Zen Comida Japonesa",
+        "localidade": "Recife",
+        "especiaidade": "comida japonesa"
+    },
+    {
+        "nome": "Cantina Di Luigi",
+        "localidade": "Recife",
+        "especiaidade": "Comida italiana"
+    },
+    {
+        "nome": "Ta San Yuen",
+        "localidade": "Recife",
+        "especiaidade": "comida chinesa"
+    },
+    {
+        "nome": "Tacos La Vereda",
+        "localidade": "Recife",
+        "especiaidade": "comida mexicana"
+    },
+    {
+        "nome": "La Tratoria",
+        "localidade": "Recife",
+        "especiaidade": "comida italiana"
+    },
+    {
+        "nome": "No Terraço",
+        "localidade": "Recife",
+        "especiaidade": "comida brasileira"
+    },
+    {
+        "nome": "Reteteu",
+        "localidade": "Recife",
+        "especiaidade": "comida brasileira"
+    },
+    {
+        "nome": "Xangai",
+        "localidade": "Recife",
+        "especiaidade": "comida chinesa"
+    }
+    
+]

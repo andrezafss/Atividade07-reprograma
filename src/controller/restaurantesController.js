@@ -1,8 +1,8 @@
-const livros = require("../model/livros.json");
+const restaurantes = require("../model/restaurantes.json");
 
 const getAll = (req, res) => {
     console.log(req.url);
-    res.send(livros);
+    res.send(restaurantes);
 }
 
 module.exports = { getAll };
